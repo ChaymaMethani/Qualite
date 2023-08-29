@@ -1,0 +1,33 @@
+.custom-icon {
+    font-weight: bold; 
+    color: rgb(6, 49, 143);
+    margin-right: 15px; 
+  }
+  .container {
+    width: auto; 
+    height: 80vh; 
+    position: fixed;
+    left: 10px;
+    top: 6%;
+    
+
+}
+.container p {
+    
+    padding-right: 20px; 
+}
+
+  .divo img {
+    position: relative;
+    left: 40%;
+    width: 90px; 
+    height: 100px;
+     
+} 
+.container h3 {
+    margin-top: 20px; 
+  }
+
+
+
+
